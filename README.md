@@ -40,9 +40,6 @@ I'm a **DevOps, Cloud and Network Engineer** with expertise in **Kubernetes, Ter
 ### Project Management & Agile Tools
 - Agile-Scrum, JIRA
 
-## 📈 GitHub Stats
-![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siluvai1997&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/siluvai-antony](https://www.linkedin.com/in/siluvai-antony)
 - Email: siluvai.justus@gmail.com

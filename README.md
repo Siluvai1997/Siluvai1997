@@ -42,4 +42,3 @@ I'm a **DevOps, Cloud and Network Engineer** with expertise in **Kubernetes, Ter
 
 ## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/siluvai-antony](https://www.linkedin.com/in/siluvai-antony)
-- Email: siluvai.justus@gmail.com

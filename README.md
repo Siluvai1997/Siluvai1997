@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antony Washington
 
-I'm a **DevOps, Cloud and Network Engineer** with expertise in **Kubernetes, Terraform, Azure, AWS, and CI/CD automation**. I enjoy building scalable cloud-native architectures, optimizing DevOps workflows, and automating infrastructure deployments.
+I'm a **DevOps, Cloud and Network Engineer** with expertise in **Kubernetes, Terraform, ArgoCD, Azure, AWS, OpenShift and CI/CD automation**. I enjoy building scalable cloud-native architectures, optimizing DevOps workflows, and automating infrastructure deployments.
 
 ## 🛠 Skills & Technologies
 

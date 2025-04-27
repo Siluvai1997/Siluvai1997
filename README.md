@@ -1,44 +1,45 @@
-# 👋 Hi, I'm Antony Washington
+# 👋 Hi, I'm Antony Washington (Siluvai1997)
 
-I'm a **DevOps, Cloud and Network Engineer** with expertise in **Kubernetes, Terraform, ArgoCD, Azure, AWS, OpenShift and CI/CD automation**. I enjoy building scalable cloud-native architectures, optimizing DevOps workflows, and automating infrastructure deployments.
+🚀 **DevOps | Cloud | Network Engineer | Site Reliability Engineer (SRE)**  
+🌎 Based in Canada | Open to remote and hybrid opportunities
 
-## 🛠 Skills & Technologies
+---
+## 🛠️ About Me
 
-### Cloud Platforms & Infrastructure
-- Azure, AWS, OpenShift
-- Cloud-native Applications, Cloud Migration, High Availability, Fault Tolerance
-- AWS Lambda, Azure Functions
+I'm a **DevOps, Cloud, and Network Engineer** with strong hands-on experience in:
+- **Cloud Platforms**: AWS, Azure, OpenShift
+- **Infrastructure as Code**: Terraform, AWS CloudFormation
+- **CI/CD Pipelines**: Jenkins, GitHub Actions, Azure DevOps, AWS DevOps stack
+- **Containerization & Orchestration**: Docker, Kubernetes, OpenShift, ArgoCD, GitOps, Helm
+- **Monitoring & Logging**: Prometheus, Grafana, Azure Monitor, ELK Stack, Fluentd, Loki, Wireshark, NetFlow, Syslog
+- **Networking & Security**: TCP/IP, DNS, VPN, VLAN, BGP, OSPF, Azure Firewall, Cisco ASA, IDS/IPS, NGFW, VMware, Azure AD, IAM, Network Security Groups
+- **Automation & Scripting**: Bash, PowerShell, Python
+- **DevOps Best Practices**: Infrastructure Scaling, Blue-Green Deployment, Canary Deployment
+- **Project Management & Agile Tools**: Agile-Scrum, JIRA
 
-### Infrastructure as Code (IaC)
-- Terraform, Azure Resource Manager (ARM), AWS CloudFormation
-- Modules, Workspaces, State Management
+I am passionate about building **highly available**, **secure**, and **scalable** cloud-native solutions while continuously learning and improving infrastructure and operations.
 
-### CI/CD & Automation
-- Jenkins, GitHub Actions, Azure DevOps, Argo CD
-- Automation Scripts: Python, Bash, PowerShell
+---
 
-### Configuration Management
-- Ansible
+## 📚 Certifications
+- **Certified Kubernetes Administrator (CNCF)**
+- **Microsoft Certified: Azure Network Engineer**
+- **Terraform Certified Associate (HashiCorp)**
+- **Microsoft Certified: Azure Fundamentals**
+- **CISCO Certified Network Associate**
 
-### Containerization & Orchestration
-- Docker, Kubernetes, Helm
-- Kubernetes Advanced Concepts: Ingress, Network Policies, Service Mesh (Istio)
+---
 
-### Monitoring & Logging
-- Prometheus, Grafana, ELK Stack, Fluentd, Loki, Wireshark, NetFlow, Syslog
+## 📈 GitHub Stats
 
-### Networking & Security
-- TCP/IP, DNS, VPN, VLAN, BGP, OSPF, Azure Firewall, Cisco ASA, IDS/IPS, NGFW, VMware, Azure AD, IAM, Network Security Groups
-- Azure Security Center, AWS GuardDuty
+![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siluvai1997&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siluvai1997&layout=compact&theme=default&hide_border=true)
 
-### DevOps Best Practices
-- Infrastructure Scaling, Blue-Green Deployment, Canary Deployment
+---
 
-### Testing Tools
-- JMeter
+## 📫 Let's Connect
 
-### Project Management & Agile Tools
-- Agile-Scrum, JIRA
-
-## 📫 Contact Me
 - LinkedIn: [linkedin.com/in/siluvai-antony](https://www.linkedin.com/in/siluvai-antony)
+
+---
+

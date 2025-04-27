@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Antony Washington
 
 🚀 **DevOps | Cloud | Network Engineer | Site Reliability Engineer (SRE)**  
-🌎 Based in Canada
 
 ---
 ## About Me

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Antony Washington (Siluvai1997)
+# 👋 Hi, I'm Antony Washington
 
 🚀 **DevOps | Cloud | Network Engineer | Site Reliability Engineer (SRE)**  
 🌎 Based in Canada | Open to remote and hybrid opportunities

@@ -4,7 +4,7 @@
 🌎 Based in Canada
 
 ---
-## 🛠️ About Me
+## About Me
 
 I'm a **DevOps, Cloud, and Network Engineer** with strong hands-on experience in:
 - **Cloud Platforms**: AWS, Azure, OpenShift
@@ -21,7 +21,7 @@ I am passionate about building **highly available**, **secure**, and **scalable*
 
 ---
 
-## 📚 Certifications
+## Certifications
 - **Certified Kubernetes Administrator (CNCF)**
 - **Microsoft Certified: Azure Network Engineer**
 - **Terraform Certified Associate (HashiCorp)**
@@ -30,15 +30,18 @@ I am passionate about building **highly available**, **secure**, and **scalable*
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siluvai1997&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siluvai1997&layout=compact&theme=default&hide_border=true)
+
+## Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/Siluvai1997/count.svg)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - LinkedIn: [linkedin.com/in/siluvai-antony](https://www.linkedin.com/in/siluvai-antony)
 

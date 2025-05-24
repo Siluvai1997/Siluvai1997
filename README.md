@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Antony Washington
 
-🚀 **DevOps | Cloud | Network Engineer | Site Reliability Engineer (SRE)**  
+🚀 **DevOps | Cloud Engineer**  
 
 ---
 ## About Me
 
-I'm a **DevOps, Cloud, and Network Engineer** with strong hands-on experience in:
+I'm a **DevOps, and Cloud Engineer** with strong hands-on experience in:
 - **Cloud Platforms**: AWS, Azure, OpenShift
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
 - **CI/CD Pipelines**: Jenkins, SonarQube, JFrog Artifactory, GitHub Actions, Azure DevOps, AWS DevOps stack
-- **Containerization & Orchestration**: Docker, Kubernetes, OpenShift, ArgoCD, GitOps, Helm
+- **Containerization & Orchestration**: Docker, Kubernetes, ArgoCD, GitOps, Helm
 - **Monitoring & Logging**: Prometheus, Grafana, Azure Monitor, ELK Stack, Fluentd, Loki, Wireshark, NetFlow, Syslog
 - **Networking & Security**: TCP/IP, DNS, VPN, VLAN, BGP, OSPF, Azure Firewall, Cisco ASA, IDS/IPS, NGFW, VMware, Azure AD, IAM, Network Security Groups
-- **Automation & Scripting**: Bash, PowerShell, Python
+- **Automation & Scripting**: Bash, Python
 - **DevOps Best Practices**: Infrastructure Scaling, Blue-Green Deployment, Canary Deployment
 - **Project Management & Agile Tools**: Agile-Scrum, JIRA
 

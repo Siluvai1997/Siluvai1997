@@ -15,7 +15,7 @@ I'm a **DevOps, SRE, and Cloud Engineer** with strong hands-on experience in:
 - **DevOps Best Practices**: Infrastructure Scaling, Blue-Green Deployment, Canary Deployment
 - **Project Management & Agile Tools**: Agile-Scrum, JIRA, ServiceNow
 
-I am passionate about building **highly available**, **secure**, and **scalable** cloud-native solutions while continuously learning and improving infrastructure and operations.
+#### I am passionate about building **highly available**, **secure**, and **scalable** cloud-native solutions while continuously learning and improving infrastructure and operations.
 ---
 
 ## GitHub Stats

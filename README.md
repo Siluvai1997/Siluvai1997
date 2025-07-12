@@ -1,10 +1,10 @@
 # Hi, I'm Antony Washington
 
-**DevOps | Cloud Engineer | SRE Engineer**  
+**DevOps | Cloud Engineer **  
 ---
 ## About Me
 
-I'm a **DevOps, SRE, and Cloud Engineer** with strong hands-on experience in:
+I'm a **DevOps, and Cloud Engineer** with strong hands-on experience in:
 - **Cloud Platforms**: AWS, Azure, OpenShift
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
 - **CI/CD Pipelines**: Jenkins, SonarQube, JFrog Artifactory, GitHub Actions, Azure DevOps, AWS DevOps stack

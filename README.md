@@ -23,10 +23,6 @@ I'm a **DevOps, SRE, and Cloud Engineer** with strong hands-on experience in:
 ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siluvai1997&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siluvai1997&layout=compact&theme=default&hide_border=true)
 
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/Siluvai1997/count.svg)
-
 ---
 
 ## Let's Connect

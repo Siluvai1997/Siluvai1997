@@ -1,11 +1,10 @@
-# 👋 Hi, I'm Antony Washington
+# Hi, I'm Antony Washington
 
-🚀 **DevOps | Cloud Engineer | SRE Engineer**  
-
+**DevOps | Cloud Engineer | SRE Engineer**  
 ---
 ## About Me
 
-I'm a **DevOps, SRE and Cloud Engineer** with strong hands-on experience in:
+I'm a **DevOps, SRE, and Cloud Engineer** with strong hands-on experience in:
 - **Cloud Platforms**: AWS, Azure, OpenShift
 - **Infrastructure as Code**: Terraform, AWS CloudFormation
 - **CI/CD Pipelines**: Jenkins, SonarQube, JFrog Artifactory, GitHub Actions, Azure DevOps, AWS DevOps stack
@@ -17,18 +16,6 @@ I'm a **DevOps, SRE and Cloud Engineer** with strong hands-on experience in:
 - **Project Management & Agile Tools**: Agile-Scrum, JIRA, ServiceNow
 
 I am passionate about building **highly available**, **secure**, and **scalable** cloud-native solutions while continuously learning and improving infrastructure and operations.
-
----
-
-## Certifications
-- **Certified Kubernetes Administrator (CNCF)**
-- **Microsoft Certified: Azure Network Engineer**
-- **Terraform Certified Associate (HashiCorp)**
-- **Microsoft Certified: Azure Fundamentals**
-- **CISCO Certified Network Associate**
-- **Python: Complete BootCamp**
-- **AWS Cloud Practitioner Essentials**
-
 ---
 
 ## GitHub Stats

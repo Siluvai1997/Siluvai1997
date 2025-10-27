@@ -1,11 +1,11 @@
 # Hi, I'm Antony Washington
 
-**DevOps | Cloud Engineer**  
+**DevOps | Cloud | Network Engineer **  
 ---
 
 ## About Me
 
-I'm a **DevOps and Cloud Engineer** focused on building secure, scalable, and automated infrastructure.
+I'm a **Network, DevOps, and Cloud Engineer** focused on building secure, scalable, and automated infrastructure.
 
 This is my personal DevOps portfolio site
 📂 **[View My Portfolio](https://siluvai1997.github.io/devops-portfolio)**

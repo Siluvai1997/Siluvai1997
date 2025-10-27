@@ -10,6 +10,8 @@ I'm a **DevOps and Cloud Engineer** focused on building secure, scalable, and au
 This is my personal DevOps portfolio site
 📂 **[View My Portfolio](https://siluvai1997.github.io/devops-portfolio)**
 
+** Note **: My portfolio site is currently being updated with new projects and content — it’ll be back online soon.
+
 ---
 
 ## GitHub Stats

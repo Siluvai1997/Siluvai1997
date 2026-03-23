@@ -1,8 +1,5 @@
 # Hi, I'm Antony
 
-**DevOps and Cloud Engineer**  
----
-
 ## About Me
 
 I'm a **DevOps | Cloud | Infrastructure Engineer** focused on building secure, scalable, and automated infrastructure.
